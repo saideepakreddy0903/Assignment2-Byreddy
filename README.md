@@ -15,3 +15,16 @@ places we can reach out near by
 * Qutub Minar
 * Sarojini Nagar Market
 * Swaminarayan Akshardham
+
+---
+
+| City | Location | Time | 
+|------|----------|------|
+| Mumbai | Juhu beach | 2-days |
+| Agra | Taj-Mahal | 1-day |
+| Mysore | Mysore palace | 2-days |
+| Hyderabad | Golkonda fort | 1-day |
+
+
+
+
