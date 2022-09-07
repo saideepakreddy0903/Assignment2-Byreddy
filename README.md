@@ -16,6 +16,8 @@ places we can reach out near by
 * Sarojini Nagar Market
 * Swaminarayan Akshardham
 
+[About me](https://github.com/saideepakreddy0903/Assignment2-Byreddy/blob/11f75bf6ea3c878c957a85c9c6c65353104e172e/AboutMe.md)
+
 ---
 
 | City | Location | Time | 
