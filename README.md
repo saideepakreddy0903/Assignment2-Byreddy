@@ -25,6 +25,8 @@ places we can reach out near by
 | Mysore | Mysore palace | 2-days |
 | Hyderabad | Golkonda fort | 1-day |
 
+---
 
+>The greatest glory in living lies not in never falling, but in rising every time we fall. - *Nelson Mandela*
 
-
+>If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. - *James Cameron*
