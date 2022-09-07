@@ -30,3 +30,22 @@ places we can reach out near by
 >The greatest glory in living lies not in never falling, but in rising every time we fall. - *Nelson Mandela*
 
 >If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. - *James Cameron*
+
+---
+
+>Better Broken Image Handling
+[For more](https://css-tricks.com/snippets/jquery/)
+
+
+```// Replace source
+$('img').on("error", function() {
+  $(this).attr('src', '/images/missing.png');
+});
+
+// Or, hide them
+$("img").on("error", function() {
+  $(this).hide();
+});
+```
+
+[For more details](https://css-tricks.com/snippets/jquery/better-broken-image-handling/)
